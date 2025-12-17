@@ -1,0 +1,38 @@
+body{
+    font-family: sans-serif;
+    background-color: #3b3b3b;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: #ff0000;
+    text-align: center;
+    padding: 20px;
+}
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 30px;
+    font-size: 20px;
+    background-color: #ff0000;
+    border: none;
+    border-radius: 17px;
+    cursor: pointer;
+}
+p1{
+    color: #ffffff;
+    text-align: center;
+    font-size: 24px;
+      margin: auto;
+     width: 50%;
+     padding: 10px;
+}
+p3{
+
+    color: #616161;
+    text-align: center;
+}
+h2{
+    color: #616161;
+  
+}
