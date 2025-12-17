@@ -35,7 +35,7 @@ function slopRarity() {
 }
 function slopUpgradeButton() {
     if(slopEaten >=40){
-    sloopChanceMultiplier + 2;
+    sloopChanceMultiplier + 0.2;
     } else {
         alert("not enough slop eaten to upgrade slop chance");
     }
